@@ -10,9 +10,11 @@ and outputs the resulting ppt file in the same directory.
 - Open terminal/Cmd at this folder
 - First run the bash script named **_watermark_** to watermark images as follows:
   > **For Windows:** bash watermark.sh
+
   > **For Linux:** ./watermark.sh
 - then run the python file called ppt.py to create ppt's as follows:
   > **For Windows:** python3 ppt.py
+  
   > **For Linux:** python3 ppt.py
 
 The resulting ppt's will be saved in the **_Images Folder_**.
